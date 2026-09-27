@@ -7,9 +7,9 @@
   <a href="mailto:hello@adamjonesdevelopment.com">Email</a>
 </p>
 
-A software studio in the West Midlands, UK. We build websites, web and desktop apps, and the odd internal tool for people who'd rather not build it themselves.
+I'm Adam, a software developer based in the West Midlands, UK. I build websites, web and desktop apps, and the odd internal tool for people who'd rather not build it themselves.
 
-### What we do
+### What I do
 
 - **Websites** for individuals and small businesses, from a simple brochure site to something with a bit more going on
 - **Custom apps**, web or desktop, built around how you actually work
@@ -19,8 +19,8 @@ Pricing is agreed up front and explained in plain English.
 
 ### About
 
-It's run by Adam, who's been doing this professionally for over three years across a mix of platforms. You deal with the person writing the code, not an account manager. Usually powered by a frothy no-ice latte.
+I've been doing this professionally for over three years across a mix of platforms. When you work with me you deal directly with the person writing the code, not an account manager.
 
 ### Get in touch
 
-Got a project in mind? Drop an email to [hello@adamjonesdevelopment.com](mailto:hello@adamjonesdevelopment.com) or have a look at [adamjonesdevelopment.com](https://www.adamjonesdevelopment.com).
+Got a project in mind? Drop me an email at [hello@adamjonesdevelopment.com](mailto:hello@adamjonesdevelopment.com) or have a look at [adamjonesdevelopment.com](https://www.adamjonesdevelopment.com).
