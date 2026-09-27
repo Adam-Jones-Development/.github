@@ -1,43 +1,26 @@
-# Hi there 👋 Welcome to Adam Jones Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adam-Jones-Development/.github/main/profile/banner.png" alt="Adam Jones Development" width="640">
+</p>
 
-We’re a small-but-mighty software studio based in the West Midlands, UK — building websites, apps, and digital tools that *just work*. Whether you're launching your personal brand, refreshing your business site, or need something more bespoke, we’re here to help bring your ideas to life.
+<p align="center">
+  <a href="https://www.adamjonesdevelopment.com">Website</a> ·
+  <a href="mailto:hello@adamjonesdevelopment.com">Email</a>
+</p>
 
----
+A software studio in the West Midlands, UK. We build websites, web and desktop apps, and the odd internal tool for people who'd rather not build it themselves.
 
-## 💼 What We Offer
+### What we do
 
-- **Modern, responsive websites** – built to impress and perform  
-- **Custom web & desktop apps** – tailored tools for your workflow  
-- **Ongoing support & maintenance** – we don’t ghost after go-live  
-- **Simple pricing, no jargon** – because clarity builds trust
+- **Websites** for individuals and small businesses, from a simple brochure site to something with a bit more going on
+- **Custom apps**, web or desktop, built around how you actually work
+- **Hosting and maintenance** after launch, so the site doesn't quietly rot once it's live
 
-> We work with individuals, startups, and businesses who want clean, effective, and future-ready digital solutions.
+Pricing is agreed up front and explained in plain English.
 
----
+### About
 
-## 🚀 Why Work With Us?
+It's run by Adam, who's been doing this professionally for over three years across a mix of platforms. You deal with the person writing the code, not an account manager. Usually powered by a frothy no-ice latte.
 
-- 🧠 3+ years of professional experience across multiple platforms  
-- 🎯 Personalised service and clear communication throughout  
-- 🤝 We genuinely care about your success  
-- 📦 Quick turnaround times and fully managed hosting options
+### Get in touch
 
----
-
-## ☕ About the Studio
-
-Adam Jones Development was born out of a love for clean code and iced coffee. Our founder Adam is usually fuelled by a *frothy no-ice latte* (yes, it’s a thing) and a desire to help clients look great online without breaking the bank.
-
----
-
-## 📩 Let's Talk
-
-If you're thinking of starting a project, get in touch!
-
-- 🌍 [adamjonesdevelopment.com](https://www.adamjonesdevelopment.com)  
-- 📧 [hello@adamjonesdevelopment.com](mailto:hello@adamjonesdevelopment.com)  
-- 🛠️ Or browse our repositories right here on GitHub
-
----
-
-**Thanks for visiting — let’s build something great together.**
+Got a project in mind? Drop an email to [hello@adamjonesdevelopment.com](mailto:hello@adamjonesdevelopment.com) or have a look at [adamjonesdevelopment.com](https://www.adamjonesdevelopment.com).
